@@ -3,7 +3,7 @@
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo el diseño e implementación de un **sistema de base de datos (DDBB)** para la implementacion de un sistema universitario, con el fin de mejorar la eficiencia y sostenibilidad de los procesos operativos.
-Actualmente enfrenta dificultades en la gestión de sus operaciones, lo que afecta la toma de decisiones. El sistema propuesto facilitará la consulta eficiente de la información relevante.
+Actualmente la universidad enfrenta dificultades en la gestión de sus operaciones, lo que afecta la toma de decisiones. El sistema propuesto facilitará la consulta eficiente de la información relevante.
 
 ---
 
