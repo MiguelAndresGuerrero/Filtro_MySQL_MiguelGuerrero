@@ -64,8 +64,6 @@ join alumno_se_matricula_asignatura asma
 join curso_escolar ce where anyo_fin = 2018 
 and id_profesor is not null and asma.id_asignatura = 10 order by id_profesor desc;
 
--- Lista los cinco departamentos con mayor cantidad de asignaturas asignadas.
-
 -- Obtén el total de alumnos y docentes por departamento.
 
 select * from alumno_se_matricula_asignatura asma
